@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  margin-top: 15px;
+  padding: 30px;
+ 
+}
+
+label{
+  color:whitesmoke;
+  text-shadow: rgb(148, 144, 144) 3px 3px;
+  font-size: 20px;
+}
+h2,h3,p{
+  text-shadow: rgb(148, 144, 144) 3px 3px;
+}
+h1{
+  text-shadow: rgb(148, 144, 144) 3px 3px;
+  color:whitesmoke;
+
+}
+h2,h3,p{
+  color:whitesmoke;
+  
+}
+body{
+background:#212125;
+}
+.apod{
+  flex-direction: column;
+  text-align: center;
+}
+img{
+  width: 550px;
+  padding: 30px;
+}
+
+
+button {
+  font-size: calc(1.5px + 2vmin);
+ background-color:azure;
+  border-radius:20px;
+}
